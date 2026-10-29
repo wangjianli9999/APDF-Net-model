@@ -1,0 +1,9 @@
+# Inference paths, relative to this YAML file unless absolute.
+# Input: one ready-to-use four-band TIFF or a folder of cropped TIFFs.
+image: test data
+
+# Directory containing both checkpoints, both input scalers and model metadata.
+model_dir: .
+
+# Save final nitrogen estimates to predictions_summary.json in this directory.
+output_dir: inference_results

@@ -1,0 +1,10 @@
+{
+  "feature_cols": [
+    "Latent_Feature_1",
+    "Latent_Feature_2",
+    "Latent_Feature_3",
+    "Latent_Feature_4",
+    "Latent_Feature_5"
+  ],
+  "input_dim": 5
+}
